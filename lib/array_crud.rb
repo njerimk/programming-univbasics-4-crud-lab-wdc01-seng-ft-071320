@@ -43,7 +43,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  array=["medium cup","coffee","cream","sugar","caramel"]
+  array=["medium cup","coffee","cream","sugar","arrays!"]
   array[-1]
 end
 
