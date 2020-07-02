@@ -48,5 +48,7 @@ end
 
 def update_element_from_index(array, index_number, element)
   array=["r&b","pop","indie","lo-fi","alternative rock"]
-  array[1]="element"
+  index_number=1
+  element="hip-hop"
+  return array[index_number]=element
 end
