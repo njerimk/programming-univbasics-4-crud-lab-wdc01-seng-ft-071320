@@ -31,8 +31,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  array=["virgo","gemini", "libra", "cancer"]
-  index_number=1
+  array=["virgo","am", "libra", "cancer"]
+  index_number==1
   array[1]
   
 end
