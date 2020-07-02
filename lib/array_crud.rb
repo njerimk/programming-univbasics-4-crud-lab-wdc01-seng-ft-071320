@@ -15,8 +15,8 @@ end
 
 def add_element_to_start_of_array(array, element)
   array=["saturn","pluto","moon","nebula"]
-  element="mercury"
-  array.unshift("mercury")
+  element=="wow"
+  p array.unshift(element)
 end
 
 
