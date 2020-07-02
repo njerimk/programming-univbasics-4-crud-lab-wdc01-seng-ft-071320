@@ -27,7 +27,7 @@ end
 
 def remove_element_from_start_of_array(array, element)
   array=["wow","king_of_hearts","joker", "ace_of_spades"]
-  element="queen_of_spades"
+  element=="wow"
   p array.shift
 end
 
