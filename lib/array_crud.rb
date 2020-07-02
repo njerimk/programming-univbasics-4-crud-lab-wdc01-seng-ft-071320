@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array=["the sun","the moon","the hierophant","the magician"]
-  element="the high priestess"
+  element=="arrays!"
   p array.push(element)
 end
 
