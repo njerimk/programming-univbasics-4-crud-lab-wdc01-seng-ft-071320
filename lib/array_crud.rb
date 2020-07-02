@@ -9,10 +9,9 @@ end
 def add_element_to_end_of_array(array, element)
   array=["the sun","the moon","the hierophant","the magician"]
   element="the high priestess"
-  p array.push("the high priestess")
+  p array.push(element)
 end
 
-add_element_to_end_of_array["the sun","the moon","the hierophant","the magician"],("the high priestess")
 
 def add_element_to_start_of_array(array, element)
   array=["saturn","pluto","moon","nebula"]
