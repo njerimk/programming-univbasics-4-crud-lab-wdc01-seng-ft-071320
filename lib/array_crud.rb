@@ -21,8 +21,8 @@ end
 
 
 def remove_element_from_end_of_array(array)
-  array=["blue birds", "blue sky", "sun","rabbits"]
-  p array.pop() 
+  array=["blue birds", "blue sky", "sun","arrays!"]
+  p array.pop
 end
 
 def remove_element_from_start_of_array(array)
