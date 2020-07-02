@@ -44,7 +44,7 @@ end
 
 def retrieve_last_element_from_array(array)
   array=["medium cup","coffee","cream","sugar","caramel"]
-  my_coffee_order[-1]
+  array[-1]
 end
 
 def update_element_from_index(array, index_number, element)
